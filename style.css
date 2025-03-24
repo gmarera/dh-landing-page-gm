@@ -242,7 +242,7 @@ section {
         margin: 7px 0;
     }
 
-    .navlist-open {
+    .navlist.open {
         right: 0px;
     }
 
